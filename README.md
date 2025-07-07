@@ -10,7 +10,6 @@ A fun, single-player Rock Paper Scissors game built with .NET WPF following the 
 - [Technologies](#technologies)  
 - [Architecture](#architecture)  
 - [Installation & Setup](#installation--setup)  
-- [Usage](#usage)  
 
 ---
 
