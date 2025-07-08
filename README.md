@@ -3,6 +3,11 @@
 A fun, single-player Rock Paper Scissors game built with .NET WPF following the MVVM pattern. Challenge a simple AI bot and track your wins, losses, and ties in real time!
 
 ---
+![homesc](https://github.com/user-attachments/assets/bba1f046-27a7-4e3a-80b8-dd981b2ac950)
+![winsc](https://github.com/user-attachments/assets/8a0a3d23-7f20-4d70-9886-1dff54f734d7)
+![drawsc](https://github.com/user-attachments/assets/15f25199-ab52-4ed1-ba8b-0e15753dabbe)
+
+
 
 ## 📋 Table of Contents
 - [About](#about)  
