@@ -73,4 +73,5 @@ This project was a first jump into interactive AI: a desktop Rock Paper Scissors
 2. **Clone the repository**  
    ```bash
    git clone https://github.com/MarcusK00/RockPaperScissors.git
-   cd RockPaperScissors
+   ```
+3. **Start the solution in your preferred IDE**  
